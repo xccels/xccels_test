@@ -4,7 +4,10 @@ Introduction                       {#intro_page}
 [TOC]
 # Overview
 
+Na Hyesun
+
 Kang jihoon
+
 
 This library is for both single and many tridiagonal systems of equations. The main algorithm for a tridiagonal matrix consists of the following five steps: 
 
