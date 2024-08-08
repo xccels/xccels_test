@@ -3,6 +3,9 @@ Introduction                       {#intro_page}
 
 [TOC]
 # Overview
+
+Shin Youngmin
+
 This library is for both single and many tridiagonal systems of equations. The main algorithm for a tridiagonal matrix consists of the following five steps: 
 
 - (1) Transform the partitioned submatrices in the tridiagonal systems into modified submatrices:
